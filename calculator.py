@@ -16,4 +16,4 @@ def substract(op1, op2):
 
 if __name__ == '__main__':
     print(add(2, 3))
-    print(add(5, 2))
+    print(substract(5, 2))
