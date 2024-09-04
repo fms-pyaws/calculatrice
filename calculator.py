@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Calculatrice
+Calculatrice à 4 opérations
 """
 
 
