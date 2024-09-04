@@ -16,9 +16,14 @@ def substract(op1, op2):
 def multiply(op1, op2):
     return op1 * op2
 
+def divide(op1, op2):
+    return op1 / op2
+
+
 if __name__ == '__main__':
     print(add(2, 3))
     print(substract(5, 2))
     print(substract(2, 5))
     print(multiply(2, 5))
     print(multiply(5, 2))
+    print(divide(6, 2))
