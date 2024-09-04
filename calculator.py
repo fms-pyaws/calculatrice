@@ -26,5 +26,5 @@ if __name__ == '__main__':
     print(substract(2, 5))
     print(multiply(3, 5))
     print(multiply(5, 3))
-    print(divide(6, 2))
-    print(divide(2, 6))
+    print(divide(6, 3))
+    print(divide(3, 6))
