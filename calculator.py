@@ -21,3 +21,4 @@ if __name__ == '__main__':
     print(substract(5, 2))
     print(substract(2, 5))
     print(multiply(2, 5))
+    print(multiply(5, 2))
